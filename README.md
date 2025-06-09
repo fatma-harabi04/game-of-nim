@@ -22,5 +22,5 @@ Always try to leave a multiple of **3** for your opponent.
 Make sure you have Python installed. Then run:
 
 ```bash
-python stone_game.py
+python the_game_of_nim.py
 
